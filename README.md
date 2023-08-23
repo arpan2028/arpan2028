@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: arpanbhattarai77@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 
 -->
-- 🔭 I’m currently working on Machine Learning, Web development and Blockchain
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on Blockchain related projects, ML projects, Research paper writting
+- 🔭 I’m currently working on Machine Learning.
+- 👯 I’m looking to collaborate on ML projects, Research paper writing
 - 📫 How to reach me: arpanbhattarai77@gmail.com
 
 ### 🧰 Languages and Tools
