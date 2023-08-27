@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 
+- 👯 I’m looking to collaborate on ML projects, Research paper writing
 -->
 - 🔭 I’m currently working on Machine Learning.
-- 👯 I’m looking to collaborate on ML projects, Research paper writing
 - 📫 How to reach me: arpanbhattarai77@gmail.com
 
 ### 🧰 Languages and Tools
