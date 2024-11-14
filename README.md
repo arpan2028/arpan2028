@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 
 - 👯 I’m looking to collaborate on ML projects, Research paper writing
 -->
-- 🔭 I’m currently working on Machine Learning.
+- 🔭 IOS Developer | AI/ML Practitioner| Python Developer | Flutter Developer
 - 📫 How to reach me: arpanbhattarai77@gmail.com
 
 ### 🧰 Languages and Tools
