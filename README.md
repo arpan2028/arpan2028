@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 
 - 👯 I’m looking to collaborate on ML projects, Research paper writing
 -->
-- 🔭 IOS Developer | AI/ML Practitioner| Python Developer | Flutter Developer
+- 🔭 Software Engineer | IOS & Android Developer| AI/ML Engineer| Python Developer
 - 📫 How to reach me: arpanbhattarai77@gmail.com
 
 ### 🧰 Languages and Tools
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-<img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+<img align="left" alt="MySQL" height="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 <br />
