@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 🌱 
 - 👯 I’m looking to collaborate on ML projects, Research paper writing
 -->
-- 🔭 Software Engineer | IOS & Android Developer| AI/ML Engineer| Python Developer
-- 📫 How to reach me: arpanbhattarai77@gmail.com
+-  Software Engineer | IOS & Android Developer| AI/ML Engineer| Python Developer
+- How to reach me: arpanbhattarai77@gmail.com
 
 ### 🧰 Languages and Tools
 
