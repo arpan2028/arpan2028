@@ -49,9 +49,12 @@ Here are some ideas to get you started:
 
 <br />
 
-### ⚡ Arpan’s GitHub Analytics
+![Repo Views](https://komarev.com/ghpvc/?username=arpan2028&repo=hyper-leetcoding-book&label=🔥%20Repo%20Views&color=brightgreen&style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan2028&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpan2028&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com/?user=arpan2028&theme=tokyonight)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpan2028&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan2028&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&custom_title=🚀%20Total%20Repos%20and%20Commits)
+![GitHub Streak](https://streak-stats.demolab.com?user=arpan2028&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=FF7600&ring=00C1FF&currStreakLabel=FFD700)
+-->
+
+
