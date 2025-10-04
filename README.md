@@ -49,4 +49,4 @@ Here are some ideas to get you started:
 
 <br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=arpan2028&label=Profile%20views&color=blue&style=flat)
+![Hits](https://hits.sh/github.com/arpan2028.svg?style=flat-square&label=Profile%20views)
