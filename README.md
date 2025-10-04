@@ -49,4 +49,9 @@ Here are some ideas to get you started:
 
 <br />
 
-![Hits](https://hits.sh/github.com/arpan2028.svg?style=flat-square&label=Profile%20views)
+### ⚡ Arpan’s GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan2028&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpan2028&layout=compact&theme=tokyonight)
+![Streak Stats](https://streak-stats.demolab.com/?user=arpan2028&theme=tokyonight)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arpan2028&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
